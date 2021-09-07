@@ -1,0 +1,20 @@
+app/captureid/flutter_cidscan/FlutterCidscanPlugin.java
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$1
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$2
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$3
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$4
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$5
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$DecodeStreamHandler
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$DecodeStreamHandler$1
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$Functions
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$InitStreamHandler
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$InitStreamHandler$1
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$LicenseStreamHandler
+ app.captureid.flutter_cidscan.FlutterCidscanPlugin$LicenseStreamHandler$1
+app/captureid/flutter_cidscan/CIDScanViewFactory.java
+ app.captureid.flutter_cidscan.CIDScanViewFactory
+app/captureid/flutter_cidscan/FlutterCIDScanView.java
+ app.captureid.flutter_cidscan.FlutterCIDScanView
+app/captureid/flutter_cidscan/BuildConfig.java
+ app.captureid.flutter_cidscan.BuildConfig

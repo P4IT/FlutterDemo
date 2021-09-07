@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+app/p4it/demo/BuildConfig.java
+ app.p4it.demo.BuildConfig
+app/p4it/demo/MainActivity.java
+ app.p4it.demo.MainActivity
