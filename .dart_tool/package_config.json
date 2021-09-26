@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_cidscan",
-      "rootUri": "file:///C:/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cidscan-0.0.5",
+      "rootUri": "file:///C:/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cidscan-0.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -146,7 +146,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-09-05T22:25:29.116939Z",
+  "generated": "2021-09-24T20:58:33.202552Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
